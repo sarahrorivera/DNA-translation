@@ -3,7 +3,7 @@
 # Overview 
 - This Python program simulates the biological process of gene expression, converting a DNA sequence into a protein sequence.
   
-- It performs two key steps:
+It performs two key steps:
   
 Transcription → DNA to mRNA
 
